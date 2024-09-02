@@ -1,0 +1,53 @@
+{
+"jadwal_kegiatan": [
+	{
+		"nama_kegiatan" : "UTS semester genap 2023",
+		"tanggal_mulai" : "2023-12-09",
+		"tanggal_selesai" : "2023-12-14"
+	},
+	{
+		"nama_kegiatan" : "FESYAR (international conference on islamic laws",
+		"tanggal_mulai" : "2023-12-22",
+		"tanggal_selesai" : "2023-12-29"
+	},
+	{
+		"nama_kegiatan" : "Rapat senat terbuka dalam rangka wisuda sarjana dan pascasarjana Unida angkatan 42",
+		"tanggal_mulai" : "2024-01-06",
+		"tanggal_selesai" : "2024-01-06"
+	},
+	{
+		"nama_kegiatan" : "UAS semester genap 2023",
+		"tanggal_mulai" : "2024-02-21",
+		"tanggal_selesai" : "2024-02-26"
+	},
+	{
+		"nama_kegiatan" : "Pembukaan awal semester ajaran tahun baru",
+		"tanggal_mulai" : "2024-04-20",
+		"tanggal_selesai" : "2024-04-20"
+	},
+	{
+		"nama_kegiatan" : "Masa orientasi ospek",
+		"tanggal_mulai" : "2024-04-21",
+		"tanggal_selesai" : "2024-04-30"
+	},
+	{
+		"nama_kegiatan" : "Apel Tahunan Pekan Perkenalan Khutbatul Arsy 1445 H",
+		"tanggal_mulai" : "2024-06-10",
+		"tanggal_selesai" : "2024-06-10"
+	},
+	{
+		"nama_kegiatan" : "Kuliah Umum Babak I-III Pekan Perkenalan Khutbatul Arsy 1445 H",
+		"tanggal_mulai" : "2024-06-11",
+		"tanggal_selesai" : "2024-06-11"
+	},
+	{
+		"nama_kegiatan" : "UTS semester ganjil 2024",
+		"tanggal_mulai" : "2024-06-22",
+		"tanggal_selesai" : "2024-06-26"
+	},
+	{
+		"nama_kegiatan" : "Liburan semester genap",
+		"tanggal_mulai" : "2024-03-01",
+		"tanggal_selesai" : "2024-04-19"
+	}
+]}

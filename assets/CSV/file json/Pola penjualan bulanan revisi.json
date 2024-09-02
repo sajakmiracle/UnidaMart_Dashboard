@@ -1,0 +1,37 @@
+[
+  {
+    "tahun": 2023,
+    "bulan": 12,
+    "total_penjualan": 246049410
+  },
+  {
+    "tahun": 2024,
+    "bulan": 1,
+    "total_penjualan": 264441460
+  },
+  {
+    "tahun": 2024,
+    "bulan": 2,
+    "total_penjualan": 242151680
+  },
+  {
+    "tahun": 2024,
+    "bulan": 3,
+    "total_penjualan": 85331628
+  },
+  {
+    "tahun": 2024,
+    "bulan": 4,
+    "total_penjualan": 153060900
+  },
+  {
+    "tahun": 2024,
+    "bulan": 5,
+    "total_penjualan": 281613000
+  },
+  {
+    "tahun": 2024,
+    "bulan": 6,
+    "total_penjualan": 250531360
+  }
+]

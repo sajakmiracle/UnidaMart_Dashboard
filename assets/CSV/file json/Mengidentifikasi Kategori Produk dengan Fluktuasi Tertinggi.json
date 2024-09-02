@@ -1,0 +1,538 @@
+[
+  {
+    "NmCategory": "LAIN-LAIN",
+    "tahun": 2024,
+    "bulan": 4,
+    "jumlah_produk_terjual": 86,
+    "bulan_sebelumnya": 36,
+    "selisih": 50
+  },
+  {
+    "NmCategory": "MAKANAN",
+    "tahun": 2024,
+    "bulan": 3,
+    "jumlah_produk_terjual": 8,
+    "bulan_sebelumnya": 47,
+    "selisih": -39
+  },
+  {
+    "NmCategory": "MAKANAN",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 59,
+    "bulan_sebelumnya": 32,
+    "selisih": 27
+  },
+  {
+    "NmCategory": "LAIN-LAIN",
+    "tahun": 2024,
+    "bulan": 3,
+    "jumlah_produk_terjual": 36,
+    "bulan_sebelumnya": 61,
+    "selisih": -25
+  },
+  {
+    "NmCategory": "MAKANAN",
+    "tahun": 2024,
+    "bulan": 4,
+    "jumlah_produk_terjual": 32,
+    "bulan_sebelumnya": 8,
+    "selisih": 24
+  },
+  {
+    "NmCategory": "FOODS",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 25,
+    "bulan_sebelumnya": 7,
+    "selisih": 18
+  },
+  {
+    "NmCategory": "MAKANAN",
+    "tahun": 2024,
+    "bulan": 6,
+    "jumlah_produk_terjual": 43,
+    "bulan_sebelumnya": 59,
+    "selisih": -16
+  },
+  {
+    "NmCategory": "LAIN-LAIN",
+    "tahun": 2024,
+    "bulan": 2,
+    "jumlah_produk_terjual": 61,
+    "bulan_sebelumnya": 76,
+    "selisih": -15
+  },
+  {
+    "NmCategory": "FOODS",
+    "tahun": 2024,
+    "bulan": 6,
+    "jumlah_produk_terjual": 16,
+    "bulan_sebelumnya": 25,
+    "selisih": -9
+  },
+  {
+    "NmCategory": "LAIN-LAIN",
+    "tahun": 2024,
+    "bulan": 6,
+    "jumlah_produk_terjual": 83,
+    "bulan_sebelumnya": 91,
+    "selisih": -8
+  },
+  {
+    "NmCategory": "LAIN-LAIN",
+    "tahun": 2024,
+    "bulan": 1,
+    "jumlah_produk_terjual": 76,
+    "bulan_sebelumnya": 68,
+    "selisih": 8
+  },
+  {
+    "NmCategory": "MINUMAN",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 10,
+    "bulan_sebelumnya": 2,
+    "selisih": 8
+  },
+  {
+    "NmCategory": "MAKANAN",
+    "tahun": 2024,
+    "bulan": 2,
+    "jumlah_produk_terjual": 47,
+    "bulan_sebelumnya": 40,
+    "selisih": 7
+  },
+  {
+    "NmCategory": "FOODS",
+    "tahun": 2024,
+    "bulan": 3,
+    "jumlah_produk_terjual": 3,
+    "bulan_sebelumnya": 10,
+    "selisih": -7
+  },
+  {
+    "NmCategory": "LAIN-LAIN",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 91,
+    "bulan_sebelumnya": 86,
+    "selisih": 5
+  },
+  {
+    "NmCategory": "MAKANAN",
+    "tahun": 2024,
+    "bulan": 1,
+    "jumlah_produk_terjual": 40,
+    "bulan_sebelumnya": 35,
+    "selisih": 5
+  },
+  {
+    "NmCategory": "SNACK",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 8,
+    "bulan_sebelumnya": 4,
+    "selisih": 4
+  },
+  {
+    "NmCategory": "FOODS",
+    "tahun": 2024,
+    "bulan": 4,
+    "jumlah_produk_terjual": 7,
+    "bulan_sebelumnya": 3,
+    "selisih": 4
+  },
+  {
+    "NmCategory": "SNACK",
+    "tahun": 2024,
+    "bulan": 6,
+    "jumlah_produk_terjual": 4,
+    "bulan_sebelumnya": 8,
+    "selisih": -4
+  },
+  {
+    "NmCategory": "SNACK",
+    "tahun": 2024,
+    "bulan": 4,
+    "jumlah_produk_terjual": 4,
+    "bulan_sebelumnya": 8,
+    "selisih": -4
+  },
+  {
+    "NmCategory": "PERALATAN MANDI",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 7,
+    "bulan_sebelumnya": 3,
+    "selisih": 4
+  },
+  {
+    "NmCategory": "OBAT",
+    "tahun": 2024,
+    "bulan": 1,
+    "jumlah_produk_terjual": 2,
+    "bulan_sebelumnya": 5,
+    "selisih": -3
+  },
+  {
+    "NmCategory": "BODY CARE",
+    "tahun": 2024,
+    "bulan": 3,
+    "jumlah_produk_terjual": 1,
+    "bulan_sebelumnya": 4,
+    "selisih": -3
+  },
+  {
+    "NmCategory": "BODY CARE",
+    "tahun": 2024,
+    "bulan": 4,
+    "jumlah_produk_terjual": 4,
+    "bulan_sebelumnya": 1,
+    "selisih": 3
+  },
+  {
+    "NmCategory": "SNACK",
+    "tahun": 2024,
+    "bulan": 1,
+    "jumlah_produk_terjual": 7,
+    "bulan_sebelumnya": 5,
+    "selisih": 2
+  },
+  {
+    "NmCategory": "OBAT",
+    "tahun": 2024,
+    "bulan": 6,
+    "jumlah_produk_terjual": 1,
+    "bulan_sebelumnya": 3,
+    "selisih": -2
+  },
+  {
+    "NmCategory": "BODY CARE",
+    "tahun": 2024,
+    "bulan": 6,
+    "jumlah_produk_terjual": 3,
+    "bulan_sebelumnya": 5,
+    "selisih": -2
+  },
+  {
+    "NmCategory": "PAKAIAN",
+    "tahun": 2024,
+    "bulan": 6,
+    "jumlah_produk_terjual": 13,
+    "bulan_sebelumnya": 15,
+    "selisih": -2
+  },
+  {
+    "NmCategory": "PERALATAN MANDI",
+    "tahun": 2024,
+    "bulan": 6,
+    "jumlah_produk_terjual": 5,
+    "bulan_sebelumnya": 7,
+    "selisih": -2
+  },
+  {
+    "NmCategory": "DETERGENT",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 3,
+    "bulan_sebelumnya": 1,
+    "selisih": 2
+  },
+  {
+    "NmCategory": "PERALATAN MAKAN MINUM",
+    "tahun": 2024,
+    "bulan": 6,
+    "jumlah_produk_terjual": 5,
+    "bulan_sebelumnya": 4,
+    "selisih": 1
+  },
+  {
+    "NmCategory": "OBAT",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 3,
+    "bulan_sebelumnya": 2,
+    "selisih": 1
+  },
+  {
+    "NmCategory": "MINUMAN",
+    "tahun": 2024,
+    "bulan": 6,
+    "jumlah_produk_terjual": 9,
+    "bulan_sebelumnya": 10,
+    "selisih": -1
+  },
+  {
+    "NmCategory": "MINUMAN",
+    "tahun": 2024,
+    "bulan": 4,
+    "jumlah_produk_terjual": 2,
+    "bulan_sebelumnya": 3,
+    "selisih": -1
+  },
+  {
+    "NmCategory": "MINUMAN",
+    "tahun": 2024,
+    "bulan": 2,
+    "jumlah_produk_terjual": 3,
+    "bulan_sebelumnya": 4,
+    "selisih": -1
+  },
+  {
+    "NmCategory": "MINUMAN",
+    "tahun": 2024,
+    "bulan": 1,
+    "jumlah_produk_terjual": 4,
+    "bulan_sebelumnya": 5,
+    "selisih": -1
+  },
+  {
+    "NmCategory": "SNACK",
+    "tahun": 2024,
+    "bulan": 2,
+    "jumlah_produk_terjual": 8,
+    "bulan_sebelumnya": 7,
+    "selisih": 1
+  },
+  {
+    "NmCategory": "ALAT TULIS / KANTOR",
+    "tahun": 2024,
+    "bulan": 6,
+    "jumlah_produk_terjual": 1,
+    "bulan_sebelumnya": 2,
+    "selisih": -1
+  },
+  {
+    "NmCategory": "FOODS",
+    "tahun": 2024,
+    "bulan": 2,
+    "jumlah_produk_terjual": 10,
+    "bulan_sebelumnya": 9,
+    "selisih": 1
+  },
+  {
+    "NmCategory": "FOODS",
+    "tahun": 2024,
+    "bulan": 1,
+    "jumlah_produk_terjual": 9,
+    "bulan_sebelumnya": 8,
+    "selisih": 1
+  },
+  {
+    "NmCategory": "BODY CARE",
+    "tahun": 2024,
+    "bulan": 1,
+    "jumlah_produk_terjual": 4,
+    "bulan_sebelumnya": 5,
+    "selisih": -1
+  },
+  {
+    "NmCategory": "BODY CARE",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 5,
+    "bulan_sebelumnya": 4,
+    "selisih": 1
+  },
+  {
+    "NmCategory": "DETERGENT",
+    "tahun": 2024,
+    "bulan": 1,
+    "jumlah_produk_terjual": 1,
+    "bulan_sebelumnya": 1,
+    "selisih": 0
+  },
+  {
+    "NmCategory": "OBAT",
+    "tahun": 2024,
+    "bulan": 2,
+    "jumlah_produk_terjual": 2,
+    "bulan_sebelumnya": 2,
+    "selisih": 0
+  },
+  {
+    "NmCategory": "BODY CARE",
+    "tahun": 2024,
+    "bulan": 2,
+    "jumlah_produk_terjual": 4,
+    "bulan_sebelumnya": 4,
+    "selisih": 0
+  },
+  {
+    "NmCategory": "DETERGENT",
+    "tahun": 2024,
+    "bulan": 2,
+    "jumlah_produk_terjual": 1,
+    "bulan_sebelumnya": 1,
+    "selisih": 0
+  },
+  {
+    "NmCategory": "MINUMAN",
+    "tahun": 2024,
+    "bulan": 3,
+    "jumlah_produk_terjual": 3,
+    "bulan_sebelumnya": 3,
+    "selisih": 0
+  },
+  {
+    "NmCategory": "DETERGENT",
+    "tahun": 2024,
+    "bulan": 4,
+    "jumlah_produk_terjual": 1,
+    "bulan_sebelumnya": 1,
+    "selisih": 0
+  },
+  {
+    "NmCategory": "DETERGENT",
+    "tahun": 2024,
+    "bulan": 6,
+    "jumlah_produk_terjual": 3,
+    "bulan_sebelumnya": 3,
+    "selisih": 0
+  },
+  {
+    "NmCategory": "jahis sandwich",
+    "tahun": 2024,
+    "bulan": 6,
+    "jumlah_produk_terjual": 1,
+    "bulan_sebelumnya": 1,
+    "selisih": 0
+  },
+  {
+    "NmCategory": "SNACK",
+    "tahun": 2023,
+    "bulan": 12,
+    "jumlah_produk_terjual": 5,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "soes arjuna",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 1,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "ALAT TULIS / KANTOR",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 2,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "PERALATAN MANDI",
+    "tahun": 2024,
+    "bulan": 4,
+    "jumlah_produk_terjual": 3,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "SOUVENIR",
+    "tahun": 2024,
+    "bulan": 6,
+    "jumlah_produk_terjual": 4,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "PERALATAN MAKAN MINUM",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 4,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "PAKAIAN",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 15,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "OBAT",
+    "tahun": 2023,
+    "bulan": 12,
+    "jumlah_produk_terjual": 5,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "MINUMAN",
+    "tahun": 2023,
+    "bulan": 12,
+    "jumlah_produk_terjual": 5,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "MAKANAN",
+    "tahun": 2023,
+    "bulan": 12,
+    "jumlah_produk_terjual": 35,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "LECI TEA UNIDA MART",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 1,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "LAIN-LAIN",
+    "tahun": 2023,
+    "bulan": 12,
+    "jumlah_produk_terjual": 68,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "jahis sandwich",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 1,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "FOODS",
+    "tahun": 2023,
+    "bulan": 12,
+    "jumlah_produk_terjual": 8,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "DETERGENT",
+    "tahun": 2023,
+    "bulan": 12,
+    "jumlah_produk_terjual": 1,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "cumi bawang",
+    "tahun": 2024,
+    "bulan": 5,
+    "jumlah_produk_terjual": 1,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  },
+  {
+    "NmCategory": "BODY CARE",
+    "tahun": 2023,
+    "bulan": 12,
+    "jumlah_produk_terjual": 5,
+    "bulan_sebelumnya": "",
+    "selisih": ""
+  }
+]
