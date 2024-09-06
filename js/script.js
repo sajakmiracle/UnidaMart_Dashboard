@@ -2,7 +2,7 @@
 // CHART Pola Penjualan Bulanan
 const charts = document.querySelectorAll(".chart-pola-penjualan-bulanan");
 
-fetch("/U3 Analisis/assets/CSV/file json/Pola penjualan bulanan revisi.json")
+fetch("assets/CSV/file json/Pola penjualan bulanan revisi.json")
   .then(response => response.json())
   .then(data => {
     // Urutkan data berdasarkan tahun dan bulan
@@ -92,7 +92,7 @@ $(document).ready(function () {
 // CHART Perubahan Penjualan Berdasarkan Periode
 const chart2 = document.querySelector(".chart-perubahan-penjualan");
 
-fetch("/U3 Analisis/assets/CSV/file json/hipotesis1.json")
+fetch("assets/CSV/file json/hipotesis1.json")
   .then(response => response.json())
   .then(data => {
     // Mengelompokkan data berdasarkan Bulan dan Periode
@@ -182,7 +182,7 @@ fetch("/U3 Analisis/assets/CSV/file json/hipotesis1.json")
   
 // Total penjualan
   const totalPenjualan = document.getElementById("total-penjualan");
-fetch("/U3 Analisis/assets/CSV/file json/Pola penjualan bulanan revisi.json")
+fetch("assets/CSV/file json/Pola penjualan bulanan revisi.json")
   .then(response => response.json())
   .then(data => {
     // Pastikan data adalah array
@@ -206,7 +206,7 @@ fetch("/U3 Analisis/assets/CSV/file json/Pola penjualan bulanan revisi.json")
   // Produk Penjualan
   const totalProdukTerjual = document.getElementById("produk-penjualan");
 
-fetch("/U3 Analisis/assets/CSV/file json/Apakah ada produk tertentu yang mengalami fluktuasi penjualan yang lebih signifikan.json")
+fetch("assets/CSV/file json/Apakah ada produk tertentu yang mengalami fluktuasi penjualan yang lebih signifikan.json")
   .then(response => response.json())
   .then(data => {
     // Pastikan data adalah array
@@ -230,7 +230,7 @@ fetch("/U3 Analisis/assets/CSV/file json/Apakah ada produk tertentu yang mengala
     // Total keuntungan
     const totalKeuntungan = document.getElementById("total-keuntungan");
 
-    fetch("/U3 Analisis/assets/CSV/file json/nota_data.json")
+    fetch("assets/CSV/file json/nota_data.json")
       .then(response => response.json())
       .then(data => {
         // Pastikan data.nota_data adalah array
@@ -259,7 +259,7 @@ fetch("/U3 Analisis/assets/CSV/file json/Apakah ada produk tertentu yang mengala
     // Total Pelanggan
     const totalPelanggan = document.getElementById("total-pelanggan");
 
-    fetch("/U3 Analisis/assets/CSV/file json/nota_data.json")
+    fetch("assets/CSV/file json/nota_data.json")
       .then(response => response.json())
       .then(data => {
         // Pastikan data.nota_data adalah array
@@ -290,7 +290,7 @@ fetch("/U3 Analisis/assets/CSV/file json/Apakah ada produk tertentu yang mengala
     // CHART-->
   // Memuat data dari jadwalkegiatan_jumlah.json
 // ... existing code ...
-fetch('/U3 Analisis/assets/CSV/file json/jadwalkegiatan_jumlah.json') // Pastikan jalur ini benar
+fetch('assets/CSV/file json/jadwalkegiatan_jumlah.json') // Pastikan jalur ini benar
   .then(response => {
     if (!response.ok) {
       throw new Error('Network response was not ok ' + response.statusText);
@@ -342,7 +342,7 @@ fetch('/U3 Analisis/assets/CSV/file json/jadwalkegiatan_jumlah.json') // Pastika
 
 
 // chart kategori produk fluktuasi tertinggi
-fetch('./assets/CSV/file json/Mengidentifikasi Kategori Produk dengan Fluktuasi Tertinggi.json')
+fetch('assets/CSV/file json/Mengidentifikasi Kategori Produk dengan Fluktuasi Tertinggi.json')
         .then(response => response.json())
         .then(data => {
             const labels = data.map(item => item.NmCategory);
@@ -458,7 +458,7 @@ fetch('assets/CSV/file json/hipotesis1.json')
   //tabel jadwal event
  
     // Mengambil data dari file JSON
-    fetch('./assets/CSV/file json/jadwal_kegiatan_202409010014.json')
+    fetch('assets/CSV/file json/jadwal_kegiatan_202409010014.json')
         .then(response => response.json())
         .then(data => {
             const tbody = document.querySelector('#tabel-kegiatankampus tbody');
