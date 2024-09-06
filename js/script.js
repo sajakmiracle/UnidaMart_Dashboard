@@ -227,33 +227,6 @@ fetch("assets/CSV/file json/Apakah ada produk tertentu yang mengalami fluktuasi 
 
 
 
-    // Total keuntungan
-    const totalKeuntungan = document.getElementById("total-keuntungan");
-
-    fetch("assets/CSV/file json/nota_data.json")
-      .then(response => response.json())
-      .then(data => {
-        // Pastikan data.nota_data adalah array
-        const dataArray = Array.isArray(data.nota_data) ? data.nota_data : [data.nota_data];
-        
-        // Hitung total keuntungan
-        const total = dataArray.reduce((acc, item) => {
-          const nilaiBeli = parseFloat(item.NilaiBeli.replace(',', '.'));
-          const nilaiJual = parseFloat(item.NilaiJual);
-          const keuntungan = nilaiJual - nilaiBeli;
-          return acc + (keuntungan || 0);
-        }, 0);
-        
-        console.log(`Total Keuntungan: ${total.toFixed(2)}`);  // Format pesan log
-    
-        // Menampilkan total keuntungan
-        totalKeuntungan.textContent = `Rp ${total.toLocaleString('id-ID', {minimumFractionDigits: 2, maximumFractionDigits: 2})}`;
-      })
-      .catch(error => {
-        console.error("Error fetching or processing data:", error);
-        totalKeuntungan.textContent = "Error loading data.";
-      });
-
 
 
     // Total Pelanggan
